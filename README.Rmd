@@ -1,0 +1,5 @@
+---
+output: github_document
+---
+
+Similar to [torscrape](https://github.com/fangzhou-xie/torscrape).
